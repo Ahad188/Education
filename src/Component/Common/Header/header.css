@@ -49,8 +49,8 @@ header ul li a {
        color: #fff;
        font-size: 30px;
        position: absolute;
-       right: 0;
-       top: 20px;
+       right: 0px;
+       top: -20px;
      }
      .mobile-nav {
        position: absolute;
