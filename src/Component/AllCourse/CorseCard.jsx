@@ -16,6 +16,7 @@ const CorseCard = () => {
                 <div className='text'>
                   <h1>{val.coursesName}</h1>
                   <div className='rate'>
+                   
                     <i className='fa fa-star'></i>
                     <i className='fa fa-star'></i>
                     <i className='fa fa-star'></i>
