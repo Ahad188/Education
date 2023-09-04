@@ -300,7 +300,7 @@
        com: "3 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../images/blog/b1.webp",
+       cover: "../../src/assets/images/blog/b1.webp",
      },
      {
        id: 2,
@@ -309,7 +309,7 @@
        com: "5 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../images/blog/b2.webp",
+       cover: "../../src/assets/images/blog/b2.webp",
      },
      {
        id: 3,
@@ -318,7 +318,7 @@
        com: "10 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../images/blog/b3.webp",
+       cover: "../../src/assets/images/blog/b3.webp",
      },
      {
        id: 4,
@@ -327,7 +327,7 @@
        com: "3 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../images/blog/b4.webp",
+       cover: "../../src/assets/images/blog/b4.webp",
      },
      {
        id: 5,
@@ -336,7 +336,7 @@
        com: "3 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../images/blog/b5.webp",
+       cover: "../../src/assets/images/blog/b5.webp",
      },
      {
        id: 6,
@@ -345,7 +345,7 @@
        com: "12 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../images/blog/b6.webp",
+       cover: "../../src/assets/images/blog/b6.webp",
      },
    ]
    export const testimonal = [
