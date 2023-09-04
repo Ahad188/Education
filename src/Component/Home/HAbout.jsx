@@ -32,9 +32,9 @@ import { coursesCard } from "../../../public/Data/Data"
                         <label htmlFor=''>(5.0)</label>
                       </div>
                       <div className='details'>
-                        {val.courTeacher.map((details) => (
-                          <>
-                            <div className='box'>
+                        {val.courTeacher.map((details,index) => (
+                          <div key={index}>
+                            <div className='box' >
                               <div className='dimg'>
                                 <img src={details.dcover} alt='' />
                               </div>
@@ -43,7 +43,7 @@ import { coursesCard } from "../../../public/Data/Data"
                               </div>
                             </div>
                             <span>{details.totalTime}</span>
-                          </>
+                          </div>
                         ))}
                       </div>
                     </div>

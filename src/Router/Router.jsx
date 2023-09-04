@@ -6,6 +6,7 @@ import CourseHome from "../Component/AllCourse/CourseHome";
 import Team from "../Component/Team/Team";
 import Pricing from "../Component/Pricing/Pricing";
 import Blog from "../Component/Blog/Blog";
+import Contact from "../Component/Contact/Contact";
 
 const router = createBrowserRouter([
      {
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
                {
                     path:'/journal',
                     element:<Blog/>
+               },
+               {
+                    path:'/contact',
+                    element:<Contact/>
                }
           ]
      }
