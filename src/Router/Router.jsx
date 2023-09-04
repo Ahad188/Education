@@ -3,6 +3,7 @@ import Layout from "../Layout/Layout";
 import Home from "../Component/Home/Home";
 import About from "../Component/About/About";
 import CourseHome from "../Component/AllCourse/CourseHome";
+import Team from "../Component/Team/Team";
 
 const router = createBrowserRouter([
      {
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
                {
                     path:'/about',
                     element:<About/>
+               },
+               {
+                    path:'/team',
+                    element:<Team/>
                }
           ]
      }
