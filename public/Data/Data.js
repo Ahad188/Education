@@ -3,11 +3,11 @@
    export const coursesCard = [
      {
        id: 1,
-       cover: "../../src/assets/images/courses/c1.png",
+       cover: "https://i.ibb.co/PDw5FKy/c1.png",
        coursesName: "Introducing to Software Engineering",
        courTeacher: [
          {
-           dcover: "../../src/assets/images/back.webp",
+           dcover: "https://i.ibb.co/Y09tXLf/back.webp",
            name: "by John Smith",
            totalTime: "50 lectures (190 hrs)",
          },
@@ -17,11 +17,11 @@
      },
      {
        id: 2,
-       cover: "../../src/assets/images/courses/c2.png",
+       cover: "https://i.ibb.co/wgsz2bJ/c2.png",
        coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
        courTeacher: [
          {
-           dcover: "../../src/assets/images/back.webp",
+           dcover: "https://i.ibb.co/Y09tXLf/back.webp",
            name: "by Ram Gurung",
            totalTime: "30 lectures (125 hrs)",
          },
@@ -31,11 +31,11 @@
      },
      {
        id: 3,
-       cover: "../../src/assets/images/courses/c3.png",
+       cover: "https://i.ibb.co/7Q68Qcf/c3.png",
        coursesName: "HTML, CSS, and Javascript for Web Developers",
        courTeacher: [
          {
-           dcover: "../../src/assets/images/back.webp",
+           dcover: "https://i.ibb.co/Y09tXLf/back.webp",
            name: "by Saroj Nepal",
            totalTime: "50 lectures (50 hrs)",
          },
@@ -45,11 +45,11 @@
      },
      {
        id: 4,
-       cover: " ../../src/assets/images/courses/c4.png",
+       cover: "https://i.ibb.co/cDHwqwY/c4.png",
        coursesName: "Introducing to Programming with WordPress",
        courTeacher: [
          {
-           dcover: "../../src/assets/images/back.webp",
+           dcover: "https://i.ibb.co/Y09tXLf/back.webp",
            name: "by Prabin Thapa Mager",
            totalTime: "20 lectures (20 hrs)",
          },
@@ -59,11 +59,11 @@
      },
      {
        id: 5,
-       cover: " ../../src/assets/images/courses/c5.png",
+       cover: "https://i.ibb.co/GptNZ9m/c5.png",
        coursesName: "Introducing to Programming with ReactJS",
        courTeacher: [
          {
-           dcover: "../../src/assets/images/back.webp",
+           dcover: "https://i.ibb.co/Y09tXLf/back.webp",
            name: "by Sunil Bishowkaram",
            totalTime: "100 lectures (150 hrs)",
          },
@@ -73,11 +73,11 @@
      },
      {
        id: 6,
-       cover: "../../src/assets/images/courses/c6.png",
+       cover: "https://i.ibb.co/6y3yYpq/c6.png",
        coursesName: "Learn Frontend Programming Language",
        courTeacher: [
          {
-           dcover: "../../src/assets/images/back.webp",
+           dcover: "https://i.ibb.co/Y09tXLf/back.webp",
            name: "by Sunil Bishowkaram",
            totalTime: "200 lectures (300 hrs)",
          },
@@ -87,11 +87,11 @@
      },
      {
        id: 7,
-       cover: "../../src/assets/images/courses/c7.png",
+       cover: "https://i.ibb.co/X3ppYqy/c7.png",
        coursesName: "Introducing to with HTML / CSS",
        courTeacher: [
          {
-           dcover: "../../src/assets/images/back.webp",
+           dcover: "https://i.ibb.co/Y09tXLf/back.webp",
            name: "by Price",
            totalTime: "20 lectures (50 hrs)",
          },
@@ -101,11 +101,11 @@
      },
      {
        id: 8,
-       cover: " ../../src/assets/images/courses/c8.png",
+       cover: "https://i.ibb.co/8K3X2d9/c8.png",
        coursesName: "Introducing to with JAVA",
        courTeacher: [
          {
-           dcover: "../../src/assets/images/back.webp",
+           dcover: "https://i.ibb.co/Y09tXLf/back.webp",
            name: "by Petter",
            totalTime: "80 lectures (200 hrs)",
          },
@@ -115,11 +115,11 @@
      },
      {
        id: 9,
-       cover: " ../../src/assets/images/courses/c9.png",
+       cover: "https://i.ibb.co/KwwsFvw/c9.png",
        coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
        courTeacher: [
          {
-           dcover: "../../src/assets/images/back.webp",
+           dcover: "https://i.ibb.co/Y09tXLf/back.webp",
            name: "by Petter",
            totalTime: "50 lectures (50 hrs)",
          },
@@ -130,116 +130,116 @@
    ]
    export const online = [
      {
-       cover: "../../src/assets/images/courses/online/o1.png",
-       hoverCover: "../../src/assets/images/courses/online/o1.png",
+       cover: " https://i.ibb.co/HHYK4d3/o1.png",
+       hoverCover: "https://i.ibb.co/ypMyx9L/o1-1.png",
        courseName: "UI/UX Design Courses",
        course: "25 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o2.png",
-       hoverCover: "../../src/assets/images/courses/online/o2.png",
+       cover: "https://i.ibb.co/qs8zYLd/o2.png ",
+       hoverCover: "https://i.ibb.co/CPhcQWc/o2-1.png",
        courseName: "Art & Design",
        course: "25 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o3.png",
-       hoverCover: "../../src/assets/images/courses/online/o3.1.png",
+       cover: "https://i.ibb.co/9HWcXfT/o3.png",
+       hoverCover: "https://i.ibb.co/4PDq78F/o3-1.png",
        courseName: "Computer Science",
        course: "10 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o4.png",
-       hoverCover: "../../src/assets/images/courses/online/o4.1.png",
+       cover: "https://i.ibb.co/w7S3Ckh/o4.png",
+       hoverCover: "https://i.ibb.co/TRYqSvp/o4-1.png",
        courseName: "History & Archeologic",
        course: "15 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o5.png",
-       hoverCover: "../../src/assets/images/courses/online/o5.1.png",
+       cover: "https://i.ibb.co/PQhgVxR/o5.png",
+       hoverCover: "https://i.ibb.co/BGk3nHb/o5-1.png",
        courseName: "Software Engineering",
        course: "30 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o6.png",
-       hoverCover: "../../src/assets/images/courses/online/o6.1.png",
+       cover: "https://i.ibb.co/qMCLMX2/o6.png",
+       hoverCover: "https://i.ibb.co/sySj2tZ/o6-1.png",
        courseName: "Information Software",
        course: "60 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o7.png",
-       hoverCover: "./images/courses/online/o7.1.png",
+       cover: "https://i.ibb.co/wRs7v6Y/o7.png",
+       hoverCover: "https://i.ibb.co/GsPvQz4/o7-1.png",
        courseName: "Health & Fitness",
        course: "10 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o8.png",
-       hoverCover: "./images/courses/online/o8.1.png",
+       cover: "https://i.ibb.co/jGbc4Q1/o8.png",
+       hoverCover: "https://i.ibb.co/cLtYRmS/o8-1.png",
        courseName: "Marketing",
        course: "30 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o9.png",
-       hoverCover: "../../src/assets/images/courses/online/o9.1.png",
+       cover: "https://i.ibb.co/StZs3tw/o9.png",
+       hoverCover: "https://i.ibb.co/G2qCX4x/o9-1.png",
        courseName: "Graphic Design",
        course: "80 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o10.png",
-       hoverCover: "../../src/assets/images/courses/online/o10.1.png",
+       cover: "https://i.ibb.co/486WR0L/o10.png",
+       hoverCover: "https://i.ibb.co/RgFVdsg/o10-1.png",
        courseName: "Music",
        course: "120 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o11.png",
-       hoverCover: "../../src/assets/images/courses/online/o11.1.png",
+       cover: "https://i.ibb.co/YL4rDVm/o11.png",
+       hoverCover: "https://i.ibb.co/3Bkf54b/o11-1.png",
        courseName: "Business Administration",
        course: "17 Courses",
      },
      {
-       cover: "../../src/assets/images/courses/online/o12.png",
-       hoverCover: "../../src/assets/images/courses/online/o12.1.png",
+       cover: "https://i.ibb.co/37n3fCK/o12.png",
+       hoverCover: "https://i.ibb.co/MShJ6g6/o12-1.png",
        courseName: "Web Management",
        course: "17 Courses",
      },
    ]
    export const team = [
      {
-       cover: "../../src/assets/images/team/t1.webp",
+       cover: "https://i.ibb.co/52W06jp/t1.webp",
        name: "Ph.D Adrian Molises",
        work: "DEVELOPER AND LEAD INSTRUCTOR",
      },
      {
-       cover: "../../src/assets/images/team/t2.webp",
+       cover: "https://i.ibb.co/8DqL7xK/t2.webp",
        name: "Ph.D Arthur MaGregor",
        work: "DEVELOPER AND LEAD INSTRUCTOR",
      },
      {
-       cover: "../../src/assets/images/team/t3.webp",
+       cover: "https://i.ibb.co/TRqZjYw/t3.webp",
        name: "Ph.D Anna Hanzen",
        work: "DEVELOPER AND LEAD INSTRUCTOR",
      },
      {
-       cover: "../../src/assets/images/team/t4.webp",
+       cover: "https://i.ibb.co/m9mqjWh/t4.webp",
        name: "Ph.D Brian Wooden",
        work: "DEVELOPER AND LEAD INSTRUCTOR",
      },
      {
-       cover: "../../src/assets/images/team/t5.webp",
+       cover: "https://i.ibb.co/52W06jp/t1.webp",
        name: "Ph.D Adrian Molises",
        work: "DEVELOPER AND LEAD INSTRUCTOR",
      },
      {
-       cover: "../../src/assets/images/team/t6.webp",
+       cover: "https://i.ibb.co/8DqL7xK/t2.webp",
        name: "Ph.D Arthur MaGregor",
        work: "DEVELOPER AND LEAD INSTRUCTOR",
      },
      {
-       cover: "../../src/assets/images/team/t7.webp",
+       cover: "https://i.ibb.co/8DqL7xK/t2.webp",
        name: "Ph.D Anna Hanzen",
        work: "DEVELOPER AND LEAD INSTRUCTOR",
      },
      {
-       cover: "../../src/assets/images/team/t8.webp",
+       cover: "https://i.ibb.co/m9mqjWh/t4.webp",
        name: "Ph.D Brian Wooden",
        work: "DEVELOPER AND LEAD INSTRUCTOR",
      },
@@ -300,7 +300,7 @@
        com: "3 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../../src/assets/images/blog/b1.webp",
+       cover: "https://i.ibb.co/ssDJy5W/b1.webp",
      },
      {
        id: 2,
@@ -309,7 +309,7 @@
        com: "5 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../../src/assets/images/blog/b2.webp",
+       cover: "https://i.ibb.co/xYMM1PP/b2.webp",
      },
      {
        id: 3,
@@ -318,7 +318,7 @@
        com: "10 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../../src/assets/images/blog/b3.webp",
+       cover: "https://i.ibb.co/cY4gYxh/b3.webp",
      },
      {
        id: 4,
@@ -327,7 +327,7 @@
        com: "3 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../../src/assets/images/blog/b4.webp",
+       cover: "https://i.ibb.co/X5j33vG/b4.webp",
      },
      {
        id: 5,
@@ -336,7 +336,7 @@
        com: "3 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../../src/assets/images/blog/b5.webp",
+       cover: "https://i.ibb.co/ncDnJdx/b5.webp",
      },
      {
        id: 6,
@@ -345,7 +345,7 @@
        com: "12 COMMENTS ",
        title: "Build your Dream Software & Engineering Career",
        desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-       cover: "../../src/assets/images/blog/b6.webp",
+       cover: "https://i.ibb.co/QKRdwH5/b6.webp",
      },
    ]
    export const testimonal = [
@@ -354,21 +354,21 @@
        name: "ROGER SCOTT",
        post: "MARKETING MANAGER",
        desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-       cover: "../../src/assets/images/testo/t1.webp",
+       cover: "https://i.ibb.co/QpmJ4nb/t1.webp",
      },
      {
        id: 2,
        name: "ROGER SCOTT",
        post: "MARKETING MANAGER",
        desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-       cover: "../../src/assets/images/testo/t2.webp",
+       cover: "https://i.ibb.co/vzjjJ8j/t2.webp",
      },
      {
        id: 3,
        name: "ROGER SCOTT",
        post: "MARKETING MANAGER",
        desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-       cover: "../../src/assets/images/testo/t3.webp",
+       cover: "https://i.ibb.co/zGVppch/t3.webp",
      },
    ]
    
